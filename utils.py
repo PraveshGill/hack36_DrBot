@@ -35,10 +35,10 @@ db = client.get_database("bot")
 symp=db.symptom_store
 
 #medico api endpoint
-hack36medico_endpoint = "https://cdfc3125.ngrok.io/isabel"
+hack36medico_endpoint = "place hack36medico link here with "
 
 #medicine api endpoint
-hack36medicine_endpoint = "http://2fa2c9ed.ngrok.io/1mg"
+hack36medicine_endpoint = "place hack36midicine link here with /1mg"
 
 # Available age categories
 age_categories = [('newborn', '1'),('infant', '2'),('younger child','3'),('older child','10'),('adolescent','4'),('young adult','7'),('adult below 40','5'),('adult below 50','8'),('adult below 65','9'),('senior','6')]
