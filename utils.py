@@ -35,7 +35,7 @@ db = client.get_database("bot")
 symp=db.symptom_store
 
 #medico api endpoint
-hack36medico_endpoint = "place hack36medico link here with "
+hack36medico_endpoint = "place hack36medico link here with /isabel"
 
 #medicine api endpoint
 hack36medicine_endpoint = "place hack36midicine link here with /1mg"
