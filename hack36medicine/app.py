@@ -32,8 +32,8 @@ def isabel():
 		#print("going to start the souce lab")
 		#starting the webdriver
 
-		SAUCE_USERNAME = 'breakit12345'
-		SAUCE_ACCESS_KEY = 'd0778173-13b3-42fb-a11d-972b09847356'
+		SAUCE_USERNAME = 'place sauce username here'
+		SAUCE_ACCESS_KEY = 'access key'
 
 		print("starting the session")
 		driver = webdriver.Remote(
